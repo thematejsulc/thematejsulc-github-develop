@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thematejsulc-github-develop/static/css/main.073c9b0a.css",
+    "main.js": "/thematejsulc-github-develop/static/js/main.f1e5bedf.js",
+    "static/js/787.bf751f76.chunk.js": "/thematejsulc-github-develop/static/js/787.bf751f76.chunk.js",
+    "static/media/logo.svg": "/thematejsulc-github-develop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thematejsulc-github-develop/index.html",
+    "main.073c9b0a.css.map": "/thematejsulc-github-develop/static/css/main.073c9b0a.css.map",
+    "main.f1e5bedf.js.map": "/thematejsulc-github-develop/static/js/main.f1e5bedf.js.map",
+    "787.bf751f76.chunk.js.map": "/thematejsulc-github-develop/static/js/787.bf751f76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1e5bedf.js"
+  ]
+}
