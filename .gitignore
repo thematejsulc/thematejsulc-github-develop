@@ -18,10 +18,15 @@ Temporary Items
 .apdisk
 
 # Dependencies
-node_modules/
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
 
 # Production build
-build/
+/build
 
 # Environment files
 .env
